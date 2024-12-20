@@ -87,11 +87,11 @@ YearsWithCurrManager
 Data Preparation
 
 
-### Promoting Headers: Ensured the first row of data was set as column headers.
+#### Promoting Headers: Ensured the first row of data was set as column headers.
 
-### Data Type Conversion: Updated data types for numerical columns such as Age, DistanceFromHome, Education, EmployeeCount, MonthlyIncome, and others to ensure accurate analysis.
+#### Data Type Conversion: Updated data types for numerical columns such as Age, DistanceFromHome, Education, EmployeeCount, MonthlyIncome, and others to ensure accurate analysis.
 
-### Column Removal: Removed irrelevant or redundant columns, including:
+#### Column Removal: Removed irrelevant or redundant columns, including:
 
 BusinessTravel
 
@@ -105,9 +105,9 @@ Over18
 
 YearsWithCurrManager
 
-### Duplicate Removal: Identified and removed duplicate records.
+#### Duplicate Removal: Identified and removed duplicate records.
 
-### New Column Addition: Added a calculated column AttritionCount to enhance the analysis.
+#### New Column Addition: Added a calculated column AttritionCount to enhance the analysis.
 
 Data Analysis
 
@@ -159,7 +159,7 @@ Excel: For initial data preparation and cleaning.
 
 The HR Analytics project provided actionable insights into employee attrition and its underlying factors. These insights can help organizations strategize to improve employee retention and satisfaction effectively.
 
-# How to Access
+## How to Access
 
 To view the project and Power BI dashboard, visit the GitHub repository and download the necessary files.
 
