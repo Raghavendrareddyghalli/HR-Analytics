@@ -1,10 +1,10 @@
-### HR Analytics Project
+# HR Analytics Project
 
-# Project Overview
+## Project Overview
 
 The HR Analytics project aims to analyze employee data to identify patterns and trends related to attrition, demographics, job satisfaction, and other key factors within the organization. This analysis enables businesses to make informed decisions to improve employee retention and satisfaction.
 
-# Data Source
+## Data Source
 
 The data for this project was provided in an Excel file and contains the following columns:
 
@@ -87,11 +87,11 @@ YearsWithCurrManager
 Data Preparation
 
 
-# Promoting Headers: Ensured the first row of data was set as column headers.
+### Promoting Headers: Ensured the first row of data was set as column headers.
 
-# Data Type Conversion: Updated data types for numerical columns such as Age, DistanceFromHome, Education, EmployeeCount, MonthlyIncome, and others to ensure accurate analysis.
+### Data Type Conversion: Updated data types for numerical columns such as Age, DistanceFromHome, Education, EmployeeCount, MonthlyIncome, and others to ensure accurate analysis.
 
-# Column Removal: Removed irrelevant or redundant columns, including:
+### Column Removal: Removed irrelevant or redundant columns, including:
 
 BusinessTravel
 
@@ -105,9 +105,9 @@ Over18
 
 YearsWithCurrManager
 
-# Duplicate Removal: Identified and removed duplicate records.
+### Duplicate Removal: Identified and removed duplicate records.
 
-# New Column Addition: Added a calculated column AttritionCount to enhance the analysis.
+### New Column Addition: Added a calculated column AttritionCount to enhance the analysis.
 
 Data Analysis
 
@@ -143,19 +143,19 @@ Stacked Area Chart: Attrition by Years at Company
 
 Bar Chart: Attrition by Job Role
 
-# Insights
+### Insights
 
 The analysis revealed significant patterns in employee attrition, including correlations between job role, age, and salary with attrition rates.
 
 The average working years and satisfaction metrics provided insights into workforce stability.
 
-# Tools Used
+### Tools Used
 
 Power BI: For data visualization and dashboard creation.
 
 Excel: For initial data preparation and cleaning.
 
-# Conclusion
+### Conclusion
 
 The HR Analytics project provided actionable insights into employee attrition and its underlying factors. These insights can help organizations strategize to improve employee retention and satisfaction effectively.
 
